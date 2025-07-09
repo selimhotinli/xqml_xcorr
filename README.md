@@ -1,3 +1,3 @@
 # xqml_xcorr
 
-Using xqml to estimate ksz and psz power spectra
+Using xqml to estimate power spectra, description to be added soon
